@@ -1,4 +1,4 @@
-package com.starter;
+package com.canary;
 
 import android.app.Application;
 
