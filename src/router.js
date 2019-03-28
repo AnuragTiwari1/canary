@@ -9,7 +9,7 @@ const AppRoute = createStackNavigator(
     Landing: { screen: landing },
   },
   {
-    initialRouteName: 'Login',
+    initialRouteName: 'Landing',
   }
 );
 export default AppRoute;

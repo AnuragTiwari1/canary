@@ -7,10 +7,7 @@
  */
 
 import React from 'react';
-import {
-  reduxifyNavigator,
-  createReduxBoundAddListener,
-} from 'react-navigation-redux-helpers';
+import { reduxifyNavigator } from 'react-navigation-redux-helpers';
 import { Provider, connect } from 'react-redux';
 import AppRoute from './src/router';
 import store from './src/store';

@@ -1,5 +1,5 @@
 const initialState = {
-  leagueList: [],
+  trendingSongs: [],
 };
 function userReducer(state = initialState, { type, payload }) {
   switch (type) {

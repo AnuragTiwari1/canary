@@ -13,6 +13,7 @@
     "precommit": "yarn run prettier && yarn run flow status && git add ."
   },
   "dependencies": {
+    "axios": "^0.18.0",
     "react": "16.8.3",
     "react-native": "0.59.1",
     "react-navigation": "2.4.1",
